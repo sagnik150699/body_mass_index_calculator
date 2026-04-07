@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sagnik150699/Sagnik-Bhattacharya/master/public/sagnik-bhattacharya.png" alt="Sagnik Bhattacharya" width="180">
+</p>
+**Sagnik Bhattacharya**
+Website: [sagnikbhattacharya.com](https://sagnikbhattacharya.com)
+
 # Flutter BMI Calculator 🚀
 Hey there, Flutter enthusiast! 👋 Ever wondered how to build a BMI (Body Mass Index) calculator using Flutter? Well, you're in luck! This repository holds a simple yet elegant BMI calculator, and I've documented each step so you can follow along and learn the ropes.
 ![Screenshot_1603392539.png](Screenshot_1603392539.png)
